@@ -1,0 +1,13 @@
+body
+    {
+        background: url(bk1.jpg);
+        float: left;
+        box-sizing: border-box;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+.logo
+    {
+        margin-left: 10%;
+    }
